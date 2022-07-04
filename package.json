@@ -1,0 +1,24 @@
+{
+  "name": "grpc_eog_scrapper_node_client",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndrewAlizaga/GRPC-NODEJS-CLIENT-EXAMPLE.git"
+  },
+  "keywords": [
+    "node",
+    "grpc",
+    "client"
+  ],
+  "author": "Andrew Alizaga",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AndrewAlizaga/GRPC-NODEJS-CLIENT-EXAMPLE/issues"
+  },
+  "homepage": "https://github.com/AndrewAlizaga/GRPC-NODEJS-CLIENT-EXAMPLE#readme"
+}
